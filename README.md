@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis is to determine if members who are part of the Vine program are more likely to leave a 5 star review due to bias.
+The purpose of this analysis is to determine if members who are part of the Vine program are more likely to leave a 5 star review due to bias. The data set used is for Mobile Electronics
 
 ## Results
 
@@ -18,5 +18,5 @@ Percentage of 5-star votes = %1
 
 ## Summary
 
-After analyzing the reviews for Mobile Electronics, it has been 
+After analyzing the reviews for Mobile Electronics, it has been determined there is no bias for members of the Vine program. The result of %0.1 is far too low to indicate any sort of correlation to higher 5-star reviews.
 
