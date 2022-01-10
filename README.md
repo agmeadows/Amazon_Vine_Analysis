@@ -20,3 +20,5 @@ Percentage of 5-star votes = %1<br>
 
 After analyzing the reviews for Mobile Electronics, it has been determined there is no bias for members of the Vine program. The result of %0.1 is far too low to indicate any sort of correlation to higher 5-star reviews.
 
+The data set was rather small for customers in the Vine program. A much larger data set would be required to perform a more accurate analysis. Given that, there is no additional analysis that would provide useful information.
+
